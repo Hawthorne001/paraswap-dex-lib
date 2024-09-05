@@ -50,29 +50,29 @@
     "checks": "yarn check:pq && yarn check:tsc && yarn check:es"
   },
   "dependencies": {
-    "@0x/utils": "^4.5.2",
+    "@0x/utils": "^6.4.0",
     "@hashflow/sdk": "2.0.0",
-    "@hashflow/taker-js": "0.0.2",
+    "@hashflow/taker-js": "0.3.0",
     "@paraswap/core": "1.1.0",
     "async": "^3.2.4",
-    "axios": "0.26.0",
+    "axios": "1.6.8",
     "bignumber.js": "9.1.0",
     "cross-fetch": "^3.1.5",
     "es6-promise": "^4.2.8",
     "ethers": "^5.6.5",
-    "joi": "^17.7.0",
+    "joi": "^17.7.1",
     "lens.ts": "^0.5.1",
     "lodash": "4.17.21",
     "log4js": "6.6.1",
     "node-cache": "^5.1.2",
     "ts-essentials": "9.1.2",
     "uuid": "^9.0.0",
-    "web3": "1.6.0",
-    "web3-core": "1.6.0",
-    "web3-eth": "1.6.0",
+    "web3": "4.0.1",
+    "web3-core": "4.0.1",
+    "web3-eth": "4.0.1",
     "web3-eth-abi": "1.4.0",
-    "web3-eth-contract": "1.6.0",
-    "web3-utils": "1.6.0"
+    "web3-eth-contract": "4.0.1",
+    "web3-utils": "1.10.1"
   },
   "sideEffects": false
 }
