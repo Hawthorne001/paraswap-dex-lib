@@ -67,7 +67,7 @@
     "node-cache": "^5.1.2",
     "ts-essentials": "9.1.2",
     "uuid": "^9.0.0",
-    "web3": "1.6.0",
+    "web3": "1.10.4",
     "web3-core": "1.6.0",
     "web3-eth": "1.6.0",
     "web3-eth-abi": "1.4.0",
