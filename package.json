@@ -50,7 +50,7 @@
     "checks": "yarn check:pq && yarn check:tsc && yarn check:es"
   },
   "dependencies": {
-    "@0x/utils": "^4.5.2",
+    "@0x/utils": "^7.0.0",
     "@hashflow/sdk": "2.0.0",
     "@hashflow/taker-js": "0.0.2",
     "@paraswap/core": "1.1.0",
